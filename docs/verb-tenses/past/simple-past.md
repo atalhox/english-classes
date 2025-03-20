@@ -5,7 +5,7 @@
 O **Simple Past** é um dos tempos verbais mais utilizados em inglês para descrever eventos que ocorreram no passado. Seu uso é essencial para comunicação fluente, seja em conversas do dia a dia, textos escritos ou relatos históricos.
 
 !!! tip "Dica"
-Memorizar os verbos irregulares é essencial para evitar erros no uso do **Simple Past**. Criar listas de estudo ou flashcards pode ajudar na aprendizagem.
+    Memorizar os verbos irregulares é essencial para evitar erros no uso do **Simple Past**. Criar listas de estudo ou flashcards pode ajudar na aprendizagem.
 
 ## 2. Objetivo
 
@@ -26,7 +26,7 @@ Os verbos regulares no **Simple Past** seguem um padrão: basta adicionar **"-ed
 | talk       | talked      |
 
 !!! warning "Atenção"
-    Alguns verbos regulares sofrem alterações ortográficas ao receber o sufixo "-ed". 
+    Alguns verbos regulares sofrem alterações ortográficas ao receber o sufixo "-ed".
     - **stop** → **stopped** (duplica a consoante final) 
     - **study** → **studied** (troca "y" por "i" antes do "-ed")
 
