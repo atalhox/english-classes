@@ -27,8 +27,8 @@ Os verbos regulares no **Simple Past** seguem um padrão: basta adicionar **"-ed
 
 !!! warning "Atenção"
     Alguns verbos regulares sofrem alterações ortográficas ao receber o sufixo "-ed".
-    - **stop** → **stopped** (duplica a consoante final) 
-    - **study** → **studied** (troca "y" por "i" antes do "-ed")
+    **stop** → **stopped** (duplica a consoante final) 
+    **study** → **studied** (troca "y" por "i" antes do "-ed")
 
 ### 3.2. Verbos Irregulares
 
